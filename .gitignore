@@ -1,6 +1,13 @@
+# Python environment and caches
 .venv/
-data/
-*.pdf
 __pycache__/
 .ipynb_checkpoints/
-*.pkl
+.ruff_cache/
+
+# Large inputs and reference papers
+data/
+*.pdf
+
+# Large outputs, rebuilt by the notebook (fixed seed)
+outputs/models/
+outputs/results/split_indices.npz
