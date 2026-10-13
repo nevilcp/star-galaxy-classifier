@@ -1,0 +1,7 @@
+,"test set, all bins"
+"efficiency, SDSS type (%)",98.60220555009914
+"efficiency, XGBoost (%)",98.62535897139058
+"impurity, SDSS type (%)",3.8410972274321424
+"impurity, XGBoost (%)",1.7397516128792219
+impurity 68% interval,1.71 to 1.76
+impurity ratio type / XGBoost,2.21 (2.18 to 2.23)
